@@ -1,5 +1,5 @@
 # qa-portfolio
-# Erik Axel – Junior QA Tester
+# Erik Axel Spina – Junior QA Tester
 
 🔍 Manual & exploratory testing  
 💾 Tools: Jira · Postman · SQL (basic)  
